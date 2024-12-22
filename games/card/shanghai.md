@@ -74,9 +74,20 @@ Each player may only call a maximum of 3 times during each round. An easy way to
 
 Jokers may be used in either sets or runs, to substitute for any missing card.
 
-Any player who has the card which the joker is representing, and who has already melded their contract on a previous turn, may, during the laying off phase of their turn to play, take the joker, replacing it in the meld with the card it represents.
+#### Taking a Melded Joker
+
+Jokers that have been melded may be taken by any player during their turn by replacing the joker with one card from their hand, and adding another card from their hand that extends the meld.
+
+> The joker must be replaced with the card it represents and a second card must be added that extends the meld.
 
 Any joker gained in this manner must be laid off in the current turn - it cannot be saved for play in a later turn.
+
+**Examples**
+Meld: 1 set consisting of 9, Joker, 9
+Player has two nines in their hand. On their turn they can take the joker from the meld by replacing it with the two nines from their hand.
+
+Meld: 8♢, 9♢, Joker, Jack♢, Queen♢ (🃈, 🃉, 🃏, 🃋, 🃍)
+Player has a 10 and King of diamonds in their hand. On their turn they can take the joker from the meld by replacing it with the 10 and King of diamonds from their hand.
 
 ### Ending a Round
 
