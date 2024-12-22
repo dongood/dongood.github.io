@@ -74,9 +74,13 @@ Each player may only call a maximum of 3 times during each round. An easy way to
 
 Jokers may be used in either sets or runs, to substitute for any missing card.
 
+A Joker used in a set represents any suit that completes the set.
+
 #### Taking a Melded Joker
 
 Jokers that have been melded may be taken by any player during their turn by replacing the joker with one card from their hand, and adding another card from their hand that extends the meld.
+
+If a run starts or ends with a joker, the second card extending the meld must surround the joker being replaced. See third and fourth examples below
 
 > The joker must be replaced with the card it represents and a second card must be added that extends the meld.
 
@@ -84,10 +88,16 @@ Any joker gained in this manner must be laid off in the current turn - it cannot
 
 **Examples**
 Meld: 1 set consisting of 9, Joker, 9
-Player has two nines in their hand. On their turn they can take the joker from the meld by replacing it with the two nines from their hand.
+Player has two nines in their hand. On their turn they can take the Joker from the meld by replacing it with the two nines from their hand. The first 9 (any suit) replaces the Joker and the second 9 (any suit) extends the meld.
 
-Meld: 8♢, 9♢, Joker, Jack♢, Queen♢ (🃈, 🃉, 🃏, 🃋, 🃍)
-Player has a 10 and King of diamonds in their hand. On their turn they can take the joker from the meld by replacing it with the 10 and King of diamonds from their hand.
+Meld: 8♢, 9♢, Joker, Jack♢ (🃈, 🃉, 🃏, 🃋)
+Player has a 10 and King of diamonds in their hand. On their turn they can take the joker from the meld by replacing it with the 10 and Queen of diamonds from their hand. The 10♢ replaces the Joker and the Queen♢ extends the meld. Note that a 7♢ could also be used instead of the Queen to extend the meld.
+
+Meld: Joker, 9♢, 10♢, Jack♢ (🃏, 🃉, 🃊, 🃋)
+Player has the 8 and 9 of diamonds in their hand. On their turn they can take the Joker from the meld by replacing it with the 8 and 9 of diamonds from their hand. The 9♢ replaces the Joker, and the 8♢ extends the meld by surrounding where the Joker was originally in the meld.
+
+Meld: 9♢, 10♢, Jack♢, Joker (🃉, 🃊, 🃋, 🃏)
+Player has the Queen and King of diamonds in their hand. On their turn they can take the Joker from the meld by replacing it with the Queen and King of diamonds from their hand. The Queen♢ replaces the Joker, and the King♢ extends the meld by surrounding where the Joker was originally in the meld.
 
 ### Ending a Round
 
