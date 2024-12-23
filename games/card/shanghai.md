@@ -1,24 +1,6 @@
-<style>
-    table {
-        width: 100%;
-        border: none;
-    }
-</style>
-
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
-
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="width: 75%">Shanghai is a contract rummy game. Below you will find the "Good Family" ruleset we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
-</td>
-    <td style="width: 24%">TOC</td>
-  </tr>
-</table>
-
+    <td style="width: 75%">
 # Shanghai
 
 Shanghai is a contract rummy game. Below you will find the "Good Family" ruleset we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
@@ -32,6 +14,26 @@ The game is best played by three to six players; the optimum number is four.
 ## Cards
 
 Two standard 52 decks with all 4 jokers are used, for a total of 108 cards.
+
+</td>
+    <td style="width: 24%">
+**Table of Contents**
+[Shanghai](#shanghai)
+&nbsp;&nbsp;[Players](#players)
+&nbsp;&nbsp;[Cards](#cards)
+&nbsp;&nbsp;[The Deal](#the-deal)
+&nbsp;&nbsp;[Object of the Game](#object-of-the-game)
+&nbsp;&nbsp;[The Contracts](#the-contracts)
+&nbsp;&nbsp;[The Play](#the-play)
+&nbsp;&nbsp;&nbsp;&nbsp;["I Call"](#taking-the-discard-out-of-turn-the-i-call)
+&nbsp;&nbsp;&nbsp;&nbsp;[Jokers](#jokers)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taking a Melded Joker](#taking-a-melded-joker)
+&nbsp;&nbsp;&nbsp;&nbsp;[Ending a Round](#ending-a-round)
+&nbsp;&nbsp;[The Final Round](#round-7-the-final-round)
+&nbsp;&nbsp;[Scoring](#scoring)
+    </td>
+  </tr>
+</table>
 
 ## The Deal
 
