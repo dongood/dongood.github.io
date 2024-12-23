@@ -106,7 +106,7 @@ Player has two nines in their hand. On their turn they can take the Joker from t
 
 **Run:** <span style="font-size: 96px;">🃈 🃉 🃏 🃋</span>
 
-Player has a 10 and King of diamonds in their hand. On their turn they can take the joker from the meld by replacing it with the 10 and Queen of diamonds from their hand. The 10♢ replaces the Joker and the Queen♢ extends the meld. Note that a 7♢ could also be used instead of the Queen to extend the meld.
+Player has a 10 and Queen of diamonds in their hand. On their turn they can take the joker from the meld by replacing it with the 10 and Queen of diamonds from their hand. The 10♢ replaces the Joker and the Queen♢ extends the meld. Note that a 7♢ could also be used instead of the Queen to extend the meld.
 
 **Run:** <span style="font-size: 96px;">🃏 🃉 🃊 🃋</span>
 
