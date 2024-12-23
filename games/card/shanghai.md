@@ -95,6 +95,7 @@ If a run starts or ends with a joker, the second card extending the meld must su
 Any joker gained in this manner must be laid off in the current turn - it cannot be saved for play in a later turn.
 
 **Examples**
+
 Meld: 1 set consisting of 9, Joker, 9
 
 Player has two nines in their hand. On their turn they can take the Joker from the meld by replacing it with the two nines from their hand. The first 9 (any suit) replaces the Joker and the second 9 (any suit) extends the meld.
