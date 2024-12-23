@@ -1,4 +1,4 @@
-<span>
+<span style="display: flex; flex-flow: row nowrap; justify-content: space-between">
 <span>
 # Shanghai
 
@@ -17,21 +17,20 @@ Two standard 52 decks with all 4 jokers are used, for a total of 108 cards.
 
 <span>
 **Table of Contents**
-[Shanghai](#shanghai)
-&nbsp;&nbsp;[Players](#players)
-&nbsp;&nbsp;[Cards](#cards)
-&nbsp;&nbsp;[The Deal](#the-deal)
-&nbsp;&nbsp;[Object of the Game](#object-of-the-game)
-&nbsp;&nbsp;[The Contracts](#the-contracts)
-&nbsp;&nbsp;[The Play](#the-play)
-&nbsp;&nbsp;&nbsp;&nbsp;["I Call"](#taking-the-discard-out-of-turn-the-i-call)
-&nbsp;&nbsp;&nbsp;&nbsp;[Jokers](#jokers)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Taking a Melded Joker](#taking-a-melded-joker)
-&nbsp;&nbsp;&nbsp;&nbsp;[Ending a Round](#ending-a-round)
-&nbsp;&nbsp;[The Final Round](#round-7-the-final-round)
-&nbsp;&nbsp;[Scoring](#scoring)
-</span>
-</span>
+
+- [Shanghai](#shanghai)
+  - [Players](#players)
+  - [Cards](#cards)
+  - [The Deal](#the-deal)
+  - [Object of the Game](#object-of-the-game)
+  - [The Contracts](#the-contracts)
+  - [The Play](#the-play)
+    - [Taking the Discard Out of Turn (the "I Call")](#taking-the-discard-out-of-turn-the-i-call)
+    - [Jokers](#jokers)
+      - [Taking a Melded Joker](#taking-a-melded-joker)
+    - [Ending a Round](#ending-a-round)
+  - [Round 7, The Final Round](#round-7-the-final-round)
+  - [Scoring](#scoring)
 
 ## The Deal
 
