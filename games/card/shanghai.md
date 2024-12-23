@@ -119,9 +119,10 @@ As you have melded all your cards, there is no discard - play ends immediately a
 ## Scoring
 
 When someone goes out by getting rid of all their cards, play ends. The player who won the round deducts 10 points from their score (-10) and the other players score penalty points for all the cards remaining in their hands, the cards scoring as follows:
-Face cards (K,Q,J) - 10 Points
-Ace -15 Points
-Joker - 25 Points
-Number Cards are worth their spot value
+
+- Face cards (K,Q,J) - 10 Points
+- Ace -15 Points
+- Joker - 25 Points
+- Number Cards are worth their spot value (2 = two points, 7 = seven points, etc.)
 
 At the end of round 7 the player with the lowest score wins.
