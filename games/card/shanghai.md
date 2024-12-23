@@ -1,6 +1,6 @@
 # Shanghai
 
-Shanghai is a contract rummy game. Below you will find the "Good Family" ruleset we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
+Shanghai is a contract rummy game. Below you will find the "Good / Miller House Rules" we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
 
 For general information on Rummy see [The Rummy Rulebook](https://www.rummyrulebook.com/).
 
