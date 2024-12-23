@@ -1,6 +1,7 @@
 <style>
     table {
         width: 100%;
+        border: none;
     }
 </style>
 
@@ -9,6 +10,14 @@
 | January  | $250    |
 | February | $80     |
 | March    | $420    |
+
+<table>
+  <tr>
+    <td style="width: 75%">Shanghai is a contract rummy game. Below you will find the "Good Family" ruleset we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
+</td>
+    <td style="width: 24%">TOC</td>
+  </tr>
+</table>
 
 # Shanghai
 
