@@ -45,19 +45,23 @@ The contracts in each successive round are as the following.
 The player to dealer's left takes the first turn. A turn consists of:
 
 **1. The Draw**
+
 The player must either draw the top card of the stock pile or take the top card of the discard pile. A player who chooses to draw a card from the stock pile must first give any other player who wishes the opportunity to take the discard (see below).
 
 **2. Melding**
+
 The player may place sets or runs from hand face up on the table. This can only be done once by each player during each round. When melding, you must lay down exactly the combination of sets or runs which is required by the contract for the round you are in. For example, you cannot lay down one set if you need two, or if you need a run also.
 
 Melding is optional - you are not required to meld as soon as you are able to.
 
 **3. Laying Off**
+
 Laying off is adding cards to sets or runs which have already been melded - both your own and those melded by other players. You may lay off only if you have already melded, or on the same turn after your meld. There is no limit as to how many cards you may lay off in one turn.
 
 Laying off is optional - you are never obliged to lay off cards if you do not wish to.
 
 **4. The Discard**
+
 At the end of your turn, you must discard one card from your hand and placed it face up on top of the discard pile (except at the end of round 7 - see below).
 
 Play continues with players taking turns clockwise around the table until one person has played all the cards from their hand.
