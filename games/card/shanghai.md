@@ -104,7 +104,7 @@ Meld: 1 set consisting of 9, Joker, 9
 
 Player has two nines in their hand. On their turn they can take the Joker from the meld by replacing it with the two nines from their hand. The first 9 (any suit) replaces the Joker and the second 9 (any suit) extends the meld.
 
-Meld: 8♢, 9♢, Joker, Jack♢ (🃈, 🃉, 🃏, 🃋)
+Meld: 8♢, 9♢, Joker, Jack♢ (<span style="font-size: 24px;">🃈, 🃉, 🃏, 🃋</span>)
 
 Player has a 10 and King of diamonds in their hand. On their turn they can take the joker from the meld by replacing it with the 10 and Queen of diamonds from their hand. The 10♢ replaces the Joker and the Queen♢ extends the meld. Note that a 7♢ could also be used instead of the Queen to extend the meld.
 
