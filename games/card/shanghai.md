@@ -32,6 +32,9 @@ Two standard 52 decks with all 4 jokers are used, for a total of 108 cards.
   - [Round 7, The Final Round](#round-7-the-final-round)
   - [Scoring](#scoring)
 
+</span>
+</span>
+
 ## The Deal
 
 There are seven rounds. The dealer for the first round is chosen randomly and thereafter the turn to deal rotates clockwise. The deal itself is also clockwise, one card at a time. Each players receive 11 cards. The remaining cards are placed face down on the table to form the stock pile, the top card of which is turned face up and placed alongside to start the discard pile.
