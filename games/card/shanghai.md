@@ -1,6 +1,5 @@
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="width: 75%">
+<span>
+<span>
 # Shanghai
 
 Shanghai is a contract rummy game. Below you will find the "Good Family" ruleset we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
@@ -14,9 +13,9 @@ The game is best played by three to six players; the optimum number is four.
 ## Cards
 
 Two standard 52 decks with all 4 jokers are used, for a total of 108 cards.
+</span>
 
-</td>
-    <td style="width: 24%">
+<span>
 **Table of Contents**
 [Shanghai](#shanghai)
 &nbsp;&nbsp;[Players](#players)
@@ -31,9 +30,8 @@ Two standard 52 decks with all 4 jokers are used, for a total of 108 cards.
 &nbsp;&nbsp;&nbsp;&nbsp;[Ending a Round](#ending-a-round)
 &nbsp;&nbsp;[The Final Round](#round-7-the-final-round)
 &nbsp;&nbsp;[Scoring](#scoring)
-    </td>
-  </tr>
-</table>
+</span>
+</span>
 
 ## The Deal
 
