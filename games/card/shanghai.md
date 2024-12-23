@@ -1,3 +1,15 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
 # Shanghai
 
 Shanghai is a contract rummy game. Below you will find the "Good Family" ruleset we use to play Shanghai. These rules are different than what you may find elsewhere on the Internet.
